@@ -83,3 +83,4 @@ DAta ´pr extenso em php
             }
             
             
+<?php echo $data[2]; ?> de <?php echo $mes; ?>, <?php echo $data[0];?>
